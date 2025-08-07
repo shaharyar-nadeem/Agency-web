@@ -7,7 +7,6 @@ import {
   Linkedin, 
   Mail, 
   Phone, 
-  MapPin,
   ArrowRight
 } from "lucide-react";
 
