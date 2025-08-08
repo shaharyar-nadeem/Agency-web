@@ -54,7 +54,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-muted-foreground mb-6 max-w-md">
-              We're a passionate team of developers and designers creating innovative digital solutions 
+              We are a passionate team of developers and designers creating innovative digital solutions 
               that drive business growth and user engagement.
             </p>
             
